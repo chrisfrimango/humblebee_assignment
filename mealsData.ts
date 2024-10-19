@@ -59,4 +59,4 @@ const printRecipesOnLetter = async (letter: string) => {
   }
 };
 
-printRecipesOnLetter("x");
+printRecipesOnLetter("g");
